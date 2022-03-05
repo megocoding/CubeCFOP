@@ -9,12 +9,16 @@ Cube CFOP - A complete guide to solving the 3x3 Rubik Cube using one of the most
 
 ## Screenshot:
 
-<img alt="CubeCFOP Screenshot 1" src="images/ss1.png">
-<img alt="CubeCFOP Screenshot 2" src="images/ss2.png">
-<img alt="CubeCFOP Screenshot 3" src="images/ss3.png">
-<img alt="CubeCFOP Screenshot 4" src="images/ss4.png">
-<img alt="CubeCFOP Screenshot 5" src="images/ss5.png">
-<img alt="CubeCFOP Screenshot 6" src="images/ss6.png">
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| <img alt="CubeCFOP Screenshot 1" src="images/ss1.png"> | <img alt="CubeCFOP Screenshot 2" src="images/ss2.png"> | <img alt="CubeCFOP Screenshot 3" src="images/ss3.png"> | <img alt="CubeCFOP Screenshot 4" src="images/ss4.png"> | <img alt="CubeCFOP Screenshot 5" src="images/ss5.png"> | <img alt="CubeCFOP Screenshot 6" src="images/ss6.png"> |
+
+
+
+
+
+
+
 
 
 ## Features:
